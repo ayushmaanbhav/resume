@@ -1,8 +1,8 @@
 resume
 ======
 
-An oversized application for showing off some of my coding skills
+Forked from [https://github.com/pascalvgemert/resume](pascalvgemert/resume)
 
 ### See wesbite in action
 
-[http://pascalvangemert.nl/](http://pascalvangemert.nl/?ref=github)
+[http://ayushmaanbhav.com/](http://ayushmaanbhav.com)
